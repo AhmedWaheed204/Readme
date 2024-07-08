@@ -13,7 +13,7 @@ Hi, I'm Ahmed Waheed Khadr, Computer && AI Engineer & Software Developer from EG
 📚 I’m currently focusing on Cuda Programming  
 📫 How to reach me 👇
 
-Feel free to reach out to me at ahmedwahe2d[at]gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/ahmed-waheed-012951223/).
+Feel free to reach out to me at ahmedwahe2d@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/ahmed-waheed-012951223/).
 
 ## Technologies and Tools
 
@@ -36,7 +36,7 @@ Feel free to reach out to me at ahmedwahe2d[at]gmail.com or connect with me on [
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-
 Thanks for visiting my profile!
+
 
 </div>
