@@ -11,8 +11,7 @@ Hi, I'm Ahmed Waheed Khadr, Computer && AI Engineer & Software Developer from EG
 📚 I’m currently focusing on Cuda Programming
 📫 How to reach me 👇
 
-## Contact Me
-
 Feel free to reach out to me at ahmedwahe2d@gmail.com or connect with me on https://www.linkedin.com/in/ahmed-waheed-012951223/.
 
 Thanks for visiting my profile!
+arduino aws azure c cplusplus docker flask git linux mysql opencv pandas postgresql python pytorch scikit_learn seaborn tensorflow
